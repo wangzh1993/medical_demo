@@ -1,7 +1,7 @@
-name: apache
+name: medical_demo
 version: 4.0.1
 appVersion: 2.4.37
-description: Chart for Apache HTTP Server
+description: Chart for demo
 keywords:
 - apache
 - http
